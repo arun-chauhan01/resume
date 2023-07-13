@@ -1,0 +1,133 @@
+{
+    "basics": {
+      "name": "Arun Kumar Singh",
+      "label": "Senior QA Engineer",
+      "image": "",
+      "email": "chauhan_arun@live.in",
+      "phone": "(+91) 9711993078",
+      "url": "https://registry.jsonresume.org/arun-chauhan01",
+      "summary": "I am a Senior QA Engineer with 6.5+ years of experience in the Software Industry, offering expertise in quality assurance and manual/functional testing of web applications and mobile applications developed using Agile and Scrum test methodologies. I have collaborated effectively with developers, project managers to ensure successful completion of projects on time. \n\nI possess strong analytical skills along with knowledge across all stages (SDLC) right from analysis, design leading up to performance tuning & maintenance processes for robust system solutions development & support activities respectively ensuring smooth functioning application systems both internally as well as externally at client locations making sure that defined SLAs are met within stipulated timelines. My key technical strengths include skill sets such Postman, Selenium WebDriver etc., MySQL QA Engineering methods etc..  \n\nAt my current positionas a Senior Quality Assurance engineer at SimplifyVMS ,majorly involved in carryingout end-to-end functional / non functional Testing for enterprise websites built on different technologies like",
+      "location": {
+        "address": "Sector-74",
+        "postalCode": "201301",
+        "city": "Noida",
+        "countryCode": "India",
+        "region": "India"
+      },
+      "profiles": [{
+        "network": "linkedin",
+        "username": "arunkumarsingh",
+        "url": "https://linkedin.com/in/arun-kumar-singh-2405b739"
+      }]
+    },
+    "work": [{
+      "name": "SimplifyVms Workforce Pvt. Ltd.",
+      "position": "Sr. Qa Engineer",
+      "url": "https://www.linkedin.com/company/simplifyworkforce",
+      "startDate": "2021-10-31",
+      "summary": "A product development start-up building B2B SAAS products that provides a cloud-based Vendor Management System (VMS) to manage contingent workforce and services procurement programs.",
+      "location": "Noida"
+    },
+    {
+        "name": "KENT Cam",
+        "position": "Qa Engineer",
+        "url": "https://www.linkedin.com/company/view-kent-cam/",
+        "startDate": "2018-01-31",
+        "endDate": "2021-10-31",
+        "summary": [
+            "Application which deals with home security system that acts as an eye which never forgets and communicates whenever necessary.",
+            "Another application which is designed for vehicles that uses dual cameras to record everything happening inside &amp; outside the car along with live video streaming from anywhere in the world, vehicle tracking, tracking real-time GPS location of the car &amp; playback the route travelled by car on a map. "
+        ],
+        "highlights": [
+            "Started the company"
+        ]
+    },
+    {
+        "name": "Clicktable Technologies LLP",
+        "summary": "Cloud based platform for casual and fine dining restaurants that helps them manage their front desk operations including guestbook, waitlist, reservations and events &amp; offers",
+        "position": "Qa Engineer",
+        "url": "https://www.linkedin.com/company/clicktable-technologies/",
+        "startDate": "2016-10-31",
+        "endDate": "2017-12-31",
+        "highlights": [
+            "Started the company"
+        ]
+    }
+],
+    "volunteer": [{
+      "organization": "Organization",
+      "position": "Volunteer",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description…",
+      "highlights": [
+        "Awarded 'Volunteer of the Month'"
+      ]
+    }],
+    "education": [{
+      "institution": "University",
+      "url": "https://institution.com/",
+      "area": "Software Development",
+      "studyType": "Bachelor",
+      "startDate": "2011-01-01",
+      "endDate": "2013-01-01",
+      "score": "4.0",
+      "courses": [
+        "DB1101 - Basic SQL"
+      ]
+    }],
+    "awards": [{
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }],
+    "certificates": [{
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }],
+    "publications": [{
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }],
+    "skills": [{
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ]
+    }],
+    "languages": [{
+      "language": "English",
+      "fluency": "Native speaker"
+    }],
+    "interests": [{
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }],
+    "references": [{
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }],
+    "projects": [{
+      "name": "Project",
+      "startDate": "2019-01-01",
+      "endDate": "2021-01-01",
+      "summary": "Summary...",
+      "highlights": [
+        "Won award at AIHacks 2016"
+      ],
+      "url": "https://project.com/"
+    }]
+  }
